@@ -33,4 +33,7 @@ Built with **Node.js, Express, MongoDB, and EJS**, it also integrates **Cloudina
 ```bash
 git clone https://github.com/your-username/wandridge.git
 cd wandridge
+```
+2. Install dependencies: npm install
+3. Start the server: npm start
 
